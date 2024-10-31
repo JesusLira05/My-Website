@@ -1,0 +1,39 @@
+h1 {
+color: MediumVioletRed;
+text-align: center;
+}
+
+img{
+text-align: center;
+}
+
+body {
+background-color: lavender;
+}
+
+#boxLSB{
+background-color: LightSkyBlue;
+
+text-align: center;
+width: 1000px;
+margin-left: 280px;
+border: 2px solid Black;
+}
+
+#lists{
+background-color: GreenYellow;
+width: 320px;
+margin-left: 600px;
+
+border: 2px solid ForestGreen;
+}
+
+#mimi{
+text-align: center;
+background-color: Orchid;
+width: 320px;
+margin-left: auto;
+margin-right: auto;
+border: 2px solid DeepPink;
+}
+
